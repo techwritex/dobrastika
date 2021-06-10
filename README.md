@@ -1,2 +1,2 @@
 # dobrastika
-Short sci-fi stories for kids
+Short sci-fi stories for kids.
