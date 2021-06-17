@@ -1,0 +1,83 @@
+[
+
+
+
+
+{
+"title": "Dobrastika. Добрая детская фантастика.",
+"tags": "",
+"keywords": "sample homepage",
+"url": "index.html",
+"summary": ""
+}
+,
+
+
+
+{
+"title": "Shuffle layout",
+"tags": "special_layouts",
+"keywords": "shuffle, card layout, dynamic grid, doc portal, support portal",
+"url": "mydoc_shuffle.html",
+"summary": "This layout shows an example of a knowledge-base style navigation system, where there is no hierarchy, just groups of pages that have certain tags."
+}
+,
+
+
+
+{
+"title": "Одни во Вселенной",
+"tags": "",
+"keywords": "",
+"url": "odni-vo-vselennoi.html",
+"summary": ""
+}
+,
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+{
+"title": "Sample post",
+"tags": "newsgetting_started",
+"keywords": "",
+"url": "samplepost.html",
+"summary": "This is some summary frontmatter for my sample post."
+}
+,
+
+
+{
+"title": "Welcome to Jekyll!",
+"tags": "news",
+"keywords": "",
+"url": "myupdate.html",
+"summary": ""
+}
+,
+
+
+{
+"title": "Test post from last year",
+"tags": "news",
+"keywords": "",
+"url": "test-post-from-last-year.html",
+"summary": ""
+}
+
+
+
+]
