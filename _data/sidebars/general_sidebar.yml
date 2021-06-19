@@ -40,14 +40,14 @@ entries:
       url: /marsovedenie.html
       output: web
 
-    - title: Рассказ №2
-      url: /link-to-story-2.html
-      output: web
+    # - title: Рассказ №2
+    #   url: /link-to-story-2.html
+    #   output: web
 
-    - title: Рассказ №3
-      url: /link-to-story-3.html
-      output: web
+    # - title: Рассказ №3
+    #   url: /link-to-story-3.html
+    #   output: web
 
-    - title: Рассказ №4
-      url: /link-to-story-4.html
-      output: web
+    # - title: Рассказ №4
+    #   url: /link-to-story-4.html
+    #   output: web
