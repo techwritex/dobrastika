@@ -1,4 +1,5 @@
-repository: tomjoht/documentation-theme-jekyll
+# repository: tomjoht/documentation-theme-jekyll
+repository: techwritex/dobrastika
 
 output: web
 # this property is useful for conditional filtering of content that is separate from the PDF.
@@ -101,7 +102,7 @@ defaults:
 
 sidebars:
 - home_sidebar
-- mydoc_sidebar
+- general_sidebar
 - product1_sidebar
 - product2_sidebar
 - other

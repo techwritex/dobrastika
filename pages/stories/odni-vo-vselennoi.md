@@ -1,8 +1,8 @@
 ---
 title: Одни во Вселенной
-sidebar: mydoc_sidebar
+sidebar: general_sidebar
 permalink: odni-vo-vselennoi.html
-folder: mydoc
+folder: stories
 ---
 
 ## Предисловие

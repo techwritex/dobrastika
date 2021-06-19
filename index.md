@@ -1,8 +1,8 @@
 ---
 title: "Dobrastika. Добрая детская фантастика."
-keywords: sample homepage
+keywords: детская фантастика, фантастика для детей, короткие фантастические рассказы
 # tags:
-sidebar: mydoc_sidebar
+sidebar: general_sidebar
 permalink: index.html
 summary: 
 ---
