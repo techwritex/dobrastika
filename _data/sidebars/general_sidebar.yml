@@ -32,6 +32,10 @@ entries:
       url: /odni-vo-vselennoi.html
       output: web
 
+    - title: Хранители
+      url: /khraniteli.html
+      output: web
+
   - title: Цикл рассказов "Покорённый Марс"
     output: web
     folderitems:
