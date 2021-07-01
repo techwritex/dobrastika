@@ -6,6 +6,7 @@ sidebar: general_sidebar
 permalink: index.html
 summary: 
 ---
+***
 
 Dobrastika - сборники коротких фантастических рассказов для детей 8-12 лет. 
 
@@ -23,7 +24,6 @@ Dobrastika - сборники коротких фантастических ра
 
 Приятного чтения Вам и Вашим детям!
 
-С уважением, Владимир Юсупов.<br/>
-vmyusupov @ gmail . com
+С уважением, Владимир Юсупов.
 
 {% include links.html %}

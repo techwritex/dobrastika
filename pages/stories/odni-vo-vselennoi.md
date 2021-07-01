@@ -4,6 +4,7 @@ sidebar: general_sidebar
 permalink: odni-vo-vselennoi.html
 folder: stories
 ---
+***
 
 ## Предисловие
 
@@ -11,6 +12,8 @@ folder: stories
 >_Других миров горят огни,_<br />
 >_Но утверждает нам наука,_<br />
 >_Что во Вселенной мы одни…_<br />
+
+***
 
 ## Глава I
 

@@ -3,30 +3,12 @@
 entries:
 - title: sidebar
   product: Сборники рассказов 
-  # version: (v. 1.0)
   folders:
 
-  # - title:
-  #   output: pdf
-  #   type: frontmatter
-  #   folderitems:
-  #   - title:
-  #     url: /titlepage.html
-  #     output: pdf
-  #     type: frontmatter
-  #   - title:
-  #     url: /tocpage.html
-  #     output: pdf
-  #     type: frontmatter
 
   - title: Цикл рассказов "Одни во Вселенной..."
     output: web
     folderitems:
-
-    # - title: Get started
-    #   url: /index.html
-    #   output: web, pdf
-    #   type: homepage
 
     - title: Одни во Вселенной...
       url: /odni-vo-vselennoi.html
@@ -40,18 +22,6 @@ entries:
     output: web
     folderitems:
 
-    - title: Рассказ "Марсоведение"
+    - title: Марсоведение
       url: /marsovedenie.html
       output: web
-
-    # - title: Рассказ №2
-    #   url: /link-to-story-2.html
-    #   output: web
-
-    # - title: Рассказ №3
-    #   url: /link-to-story-3.html
-    #   output: web
-
-    # - title: Рассказ №4
-    #   url: /link-to-story-4.html
-    #   output: web
