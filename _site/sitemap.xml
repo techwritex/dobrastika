@@ -38,6 +38,12 @@
   
   
   <url>
+    <loc>http://localhost:4000/kosmicheskaya-regata.html</loc>
+  </url>
+  
+  
+  
+  <url>
     <loc>http://localhost:4000/marsovedenie.html</loc>
   </url>
   
@@ -46,8 +52,6 @@
   <url>
     <loc>http://localhost:4000/odni-vo-vselennoi.html</loc>
   </url>
-  
-  
   
   
   

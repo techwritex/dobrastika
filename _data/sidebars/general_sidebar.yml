@@ -25,3 +25,7 @@ entries:
     - title: Марсоведение
       url: /marsovedenie.html
       output: web
+
+    - title: Космическая регата
+      url: /kosmicheskaya-regata.html
+      output: web
